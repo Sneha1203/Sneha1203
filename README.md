@@ -16,6 +16,13 @@
 Hi, I am Sneha Chandak
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C668%20hrs%2020%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1201-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
+
+
 <!--END_SECTION:waka-->
 
 <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Sneha1203&count_private=true&theme=tokyonight&showicons=true)]()  
