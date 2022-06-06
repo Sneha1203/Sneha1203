@@ -16,6 +16,77 @@
 Hi, I am Sneha Chandak
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 70 Contributions in the Year 2022
+ > 
+> 📦 333.3 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 10 Public Repositories 
+ > 
+> 🔑 1 Private Repository 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.46% 
+🌆 Daytime    17 commits     ██████░░░░░░░░░░░░░░░░░░░   25.37% 
+🌃 Evening    28 commits     ██████████░░░░░░░░░░░░░░░   41.79% 
+🌙 Night      17 commits     ██████░░░░░░░░░░░░░░░░░░░   25.37%
+
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday       10 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.93% 
+Tuesday      15 commits     █████░░░░░░░░░░░░░░░░░░░░   22.39% 
+Wednesday    5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.46% 
+Thursday     9 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.43% 
+Friday       9 commits      ███░░░░░░░░░░░░░░░░░░░░░░   13.43% 
+Saturday     5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.46% 
+Sunday       14 commits     █████░░░░░░░░░░░░░░░░░░░░   20.9%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+HTML                     3 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+C                        1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+
+```
+
+
+
+ Last Updated on 06/06/2022 19:00:55 UTC
 <!--END_SECTION:waka-->
 
 <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Sneha1203&count_private=true&theme=tokyonight&showicons=true)]()  
