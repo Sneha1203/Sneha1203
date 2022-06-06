@@ -1,4 +1,4 @@
-# नमस्ते, I am Sneha Chandak! 👀
+<h2 align="left">नमस्ते, I am Sneha Chandak! 👀</h2>
 
 <a href="https://www.instagram.com/_snehachandak_/">
   <img align="left" alt="Sneha's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -24,7 +24,7 @@
 ---
 
 
-## Languages and Tools 🛠
+<h3 align="left">Languages and Tools 🛠</h3>
 
 <br />
 
