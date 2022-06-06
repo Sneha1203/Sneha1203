@@ -16,11 +16,11 @@
 ---
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sneha1203](https://github.com/Sneha1203)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/Sneha1203)
 
 - 💬 Ask me about **Anything!!**
 
-- 📫 How to reach me **https://www.linkedin.com/in/sneha-chandak-908807204/**
+- 📫 How to reach me [Email](mailto:snehac1203@gmail.com)  [LinkedIn](https://www.linkedin.com/in/sneha-chandak-908807204/)
 ---
 
 
