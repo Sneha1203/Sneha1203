@@ -1,4 +1,4 @@
-<h2 align="left">नमस्ते, I am Sneha Chandak! 👀</h2>
+<h1 align="left">नमस्ते, I am Sneha Chandak! 👀</h1>
 
 <a href="https://www.instagram.com/_snehachandak_/">
   <img align="left" alt="Sneha's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -24,7 +24,7 @@
 ---
 
 
-<h3 align="left">Languages and Tools 🛠</h3>
+<h2 align="left">Languages and Tools 🛠</h2>
 
 <br />
 
@@ -33,7 +33,7 @@
 
 ---
 
-<h3 align="left">GitHub Stats 📊📈</h3>
+<h2 align="left">GitHub Stats 📊📈</h2>
 
 <br />
 
