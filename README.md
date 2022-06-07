@@ -38,17 +38,17 @@
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 70 Contributions in the Year 2022
+> 🏆 81 Contributions in the Year 2022
  > 
-> 📦 333.3 kB Used in GitHub's Storage 
+> 📦 333.6 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -59,10 +59,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-🌆 Daytime    17 commits     ██████░░░░░░░░░░░░░░░░░░░   24.29% 
-🌃 Evening    28 commits     ██████████░░░░░░░░░░░░░░░   40.0% 
-🌙 Night      20 commits     ███████░░░░░░░░░░░░░░░░░░   28.57%
+🌞 Morning    5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.41% 
+🌆 Daytime    17 commits     █████░░░░░░░░░░░░░░░░░░░░   21.79% 
+🌃 Evening    29 commits     █████████░░░░░░░░░░░░░░░░   37.18% 
+🌙 Night      27 commits     ████████░░░░░░░░░░░░░░░░░   34.62%
 
 ```
 
@@ -96,7 +96,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/06/2022 19:21:49 UTC
+ Last Updated on 07/06/2022 18:45:53 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha1203&" alt="sneha1203" /></p>
