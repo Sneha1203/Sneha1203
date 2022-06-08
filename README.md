@@ -37,6 +37,8 @@
 
 <br />
 
+<img align="center" src="https://komarev.com/ghpvc/?username=Sneha1203" />
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2018%20mins-blue)
 
