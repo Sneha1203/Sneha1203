@@ -73,13 +73,17 @@
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               37 mins             ██████████████░░░░░░░░░░░   58.08% 
+Markdown                 14 mins             █████░░░░░░░░░░░░░░░░░░░░   22.79% 
+YAML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   10.94% 
+CSS                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   7.75% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.43%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 4 mins         █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 4 mins         █████████████████████████   100.0%
 
 ```
 
@@ -96,7 +100,7 @@ JavaScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/06/2022 18:45:53 UTC
+ Last Updated on 08/06/2022 18:45:55 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha1203&" alt="sneha1203" /></p>
