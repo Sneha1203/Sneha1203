@@ -1,9 +1,9 @@
 <h1 align="left">नमस्ते, I am Sneha Chandak! 👀</h1>
 
-<a href="https://www.instagram.com/_snehachandak_/">
+<!-- <a href="https://www.instagram.com/_snehachandak_/">
   <img align="left" alt="Sneha's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-
+ -->
 
 <a href="https://www.linkedin.com/in/sneha-chandak-908807204//">
   <img align="left" alt="Sneha's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
