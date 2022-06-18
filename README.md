@@ -73,7 +73,7 @@ Windows                  23 hrs 48 mins      ███████████�
 ```
 
 
- Last Updated on 17/06/2022 23:19:43 UTC
+ Last Updated on 18/06/2022 01:44:07 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha1203&" alt="sneha1203" /></p>
