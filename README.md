@@ -40,17 +40,17 @@
 <img align="center" src="https://komarev.com/ghpvc/?username=Sneha1203" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4%20Million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.84% 
-🌆 Daytime    30 commits     ██████░░░░░░░░░░░░░░░░░░░   24.19% 
-🌃 Evening    35 commits     ███████░░░░░░░░░░░░░░░░░░   28.23% 
-🌙 Night      53 commits     ██████████░░░░░░░░░░░░░░░   42.74%
+🌞 Morning    6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.8% 
+🌆 Daytime    30 commits     ██████░░░░░░░░░░░░░░░░░░░   24.0% 
+🌃 Evening    35 commits     ███████░░░░░░░░░░░░░░░░░░   28.0% 
+🌙 Night      54 commits     ██████████░░░░░░░░░░░░░░░   43.2%
 
 ```
 
@@ -73,7 +73,7 @@ Windows                  26 hrs 58 mins      ███████████�
 ```
 
 
- Last Updated on 20/06/2022 18:24:59 UTC
+ Last Updated on 20/06/2022 19:17:09 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha1203&" alt="sneha1203" /></p>
