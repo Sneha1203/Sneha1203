@@ -40,7 +40,7 @@
 <!-- <img align="center" src="https://komarev.com/ghpvc/?username=Sneha1203" /> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-34%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
@@ -75,7 +75,7 @@ Windows                  10 hrs 11 mins      ███████████�
 ```
 
 
- Last Updated on 24/06/2022 18:26:24 UTC
+ Last Updated on 24/06/2022 19:16:34 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha1203&" alt="sneha1203" /></p>
