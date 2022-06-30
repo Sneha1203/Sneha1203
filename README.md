@@ -40,7 +40,7 @@
 <!-- <img align="center" src="https://komarev.com/ghpvc/?username=Sneha1203" /> -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
@@ -63,8 +63,8 @@
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      30 mins             █████████████████████░░░░   83.94% 
-JavaScript               5 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.06%
+C++                      30 mins             █████████████████████░░░░   84.49% 
+JavaScript               5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.51%
 
 💻 Operating System: 
 Windows                  36 mins             █████████████████████████   100.0%
@@ -72,7 +72,7 @@ Windows                  36 mins             ███████████�
 ```
 
 
- Last Updated on 30/06/2022 19:16:53 UTC
+ Last Updated on 30/06/2022 20:21:57 UTC
 <!--END_SECTION:waka-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sneha1203&" alt="sneha1203" /></p>
