@@ -14,7 +14,7 @@
 <br />
 
 ---
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently interning at Microsoft!
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Sneha1203)
 
